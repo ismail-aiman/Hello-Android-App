@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kotlin2</string>
+    <string name="share">Share</string>
+    <string name="secondactivity">secondActivity</string>
+    <string name="welcome">WELCOME</string>
+    <string name="back_to_main">back to main</string>
+    <string name="second_activity">second activity</string>
+    <string name="welcome_to_secondactivity">Welcome to SecondActivity</string>
+</resources>
